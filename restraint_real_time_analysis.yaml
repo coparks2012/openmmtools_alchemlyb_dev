@@ -1,0 +1,75 @@
+- iteration: 200
+  percent_complete: 20.0
+  mbar_analysis:
+    free_energy_in_kT: 76.84158739820313
+    standard_error_in_kT: 1.017717403169008
+    number_of_uncorrelated_samples: 78.15629577636719
+    n_equilibrium_iterations: 45
+    statistical_inefficiency: 2.0087952613830566
+  timing_data:
+    iteration_seconds: 5.474346876144409
+    average_seconds_per_iteration: 5.54993709247915
+    estimated_time_remaining: '1:14:05.499611'
+    estimated_localtime_finish_date: 2023-Jan-25-05:57:39
+    estimated_total_time: '1:32:29.937092'
+    ns_per_day: 311.3548804619162
+- iteration: 400
+  percent_complete: 40.0
+  mbar_analysis:
+    free_energy_in_kT: 75.96795607701432
+    standard_error_in_kT: 0.6605229255051164
+    number_of_uncorrelated_samples: 141.67173767089844
+    n_equilibrium_iterations: 125
+    statistical_inefficiency: 1.9552241563796997
+  timing_data:
+    iteration_seconds: 5.587909698486328
+    average_seconds_per_iteration: 5.550956727269299
+    estimated_time_remaining: '0:55:36.124993'
+    estimated_localtime_finish_date: 2023-Jan-25-05:57:40
+    estimated_total_time: '1:32:30.956727'
+    ns_per_day: 311.2976888310317
+- iteration: 600
+  percent_complete: 60.0
+  mbar_analysis:
+    free_energy_in_kT: 75.63671650204758
+    standard_error_in_kT: 0.5118361825212111
+    number_of_uncorrelated_samples: 229.13319396972656
+    n_equilibrium_iterations: 133
+    statistical_inefficiency: 2.046844482421875
+  timing_data:
+    iteration_seconds: 5.513034343719482
+    average_seconds_per_iteration: 5.553005819925681
+    estimated_time_remaining: '0:37:06.755334'
+    estimated_localtime_finish_date: 2023-Jan-25-05:57:43
+    estimated_total_time: '1:32:33.005820'
+    ns_per_day: 311.1828181053711
+- iteration: 800
+  percent_complete: 80.0
+  mbar_analysis:
+    free_energy_in_kT: 75.33274697072827
+    standard_error_in_kT: 0.4504986764823906
+    number_of_uncorrelated_samples: 283.5440673828125
+    n_equilibrium_iterations: 145
+    statistical_inefficiency: 2.3171000480651855
+  timing_data:
+    iteration_seconds: 5.591026306152344
+    average_seconds_per_iteration: 5.554837043354001
+    estimated_time_remaining: '0:18:36.522246'
+    estimated_localtime_finish_date: 2023-Jan-25-05:57:44
+    estimated_total_time: '1:32:34.837043'
+    ns_per_day: 311.08023268971306
+- iteration: 1000
+  percent_complete: 100.0
+  mbar_analysis:
+    free_energy_in_kT: 75.76795285342027
+    standard_error_in_kT: 0.3597739283577715
+    number_of_uncorrelated_samples: 412.8410949707031
+    n_equilibrium_iterations: 161
+    statistical_inefficiency: 2.0371034145355225
+  timing_data:
+    iteration_seconds: 5.5299177169799805
+    average_seconds_per_iteration: 5.5552247250760285
+    estimated_time_remaining: '0:00:05.555225'
+    estimated_localtime_finish_date: 2023-Jan-25-05:57:45
+    estimated_total_time: '1:32:35.224725'
+    ns_per_day: 311.0585233752809
